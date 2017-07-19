@@ -4,7 +4,7 @@ post_title: Home
 author: Todd
 post_excerpt: ""
 layout: page
-permalink: http://evuedigital.dobeework.com/
+permalink: http://evuedigital.com/
 published: true
 post_date: 2017-05-01 20:45:49
 ---
