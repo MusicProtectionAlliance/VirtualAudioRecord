@@ -8,7 +8,7 @@ permalink: https://www.evuedigital.com/
 published: true
 post_date: 2017-05-01 20:45:49
 ---
-[vc_row][vc_column][vc_zigzag color="green"][vc_column_text]
+[vc_row][vc_column][vc_zigzag color="green" el_width="70"][vc_column_text]
 
 eVue Digital Labs is an Open R&amp;D firm with disciplines in evidence informatics, digital forensics, electrotechnology, machine learning and AI.
 
