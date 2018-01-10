@@ -1,14 +1,17 @@
 ---
 ID: 2
 post_title: Home
-author: Todd
+author: Todd Alexander
 post_excerpt: ""
 layout: page
 permalink: https://www.evuedigital.com/
 published: true
 post_date: 2017-05-01 20:45:49
 ---
-[vc_row css=".vc_custom_1502936331849{padding-top: 25px !important;}"][vc_column width="1/2"][vc_column_text]eVue Digital Labs is an Open R&amp;D firm with disciplines in evidence informatics, digital forensics, electrotechnology, machine learning and AI.
+[vc_row full_width="stretch_row" full_height="yes" parallax="content-moving" parallax_image="297"][vc_column][vc_column_text]
+<h1 style="text-align: center;"><span style="color: #ffffff;"><strong>Connecting the physical with the digital</strong>
+</span></h1>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1502936331849{padding-top: 25px !important;}"][vc_column width="1/2"][vc_column_text]eVue Digital Labs is an Open R&amp;D firm with disciplines in evidence informatics, digital forensics, electrotechnology, machine learning and AI.
 
 We build simple algorithms for building trust in technology and machines through rule, evidence and process automation recognition and assessment.
 
